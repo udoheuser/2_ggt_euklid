@@ -1,0 +1,3 @@
+title=GGT-Berechnung
+author=Udo Heuser
+orientation=portrait
